@@ -1,0 +1,10 @@
+{
+  "name": "quantum-validate",
+  "version": "1.0.0",
+  "description": "Input validators for Quantum Language: email, URL, password strength, Pakistani phone and CNIC.",
+  "main": "index.sa",
+  "keywords": ["validation", "email", "url", "password", "cnic", "phone", "utility"],
+  "author": "Noor",
+  "repository": "https://github.com/NoorFatima-code/quantum-validate",
+  "license": "MIT"
+}

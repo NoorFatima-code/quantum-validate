@@ -1,0 +1,6 @@
+# @use quantum-validate
+print(QValidate.is_email("noor@example.com"))    # true
+print(QValidate.is_email("noor@com"))            # false
+print(QValidate.is_pk_phone("0300-1234567"))     # true
+print(QValidate.is_cnic("35202-1234567-1"))      # true
+print(QValidate.is_strong_password("Abcd@1234")) # true
